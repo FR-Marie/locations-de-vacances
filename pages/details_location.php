@@ -10,7 +10,7 @@
     <!--------google font--------->
     <!--------bootstrap--------->
     <!--------css--------->
-    <title>Document</title>
+    <title>Détails - locations de vacances</title>
 </head>
 <body>
 
