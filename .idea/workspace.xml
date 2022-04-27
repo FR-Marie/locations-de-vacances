@@ -2,9 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96003192-8f79-4ff8-9255-c0b8e862fbb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vues-frontend/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vues-frontend/accueil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vues-frontend/navbar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/143651_440_791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/234016_440_791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/236603_440_791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/280605_440_791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/57994_1025853_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/58360_780019_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/63154_914267_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/63716_927736_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/64771_956469_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/66084_994241_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/85602_440_791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/formang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/gite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/img_gites.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pexels-photo-1974596.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pexels-photo-2119713.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pexels-photo-2394446.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pexels-photo-2625766.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pexels-photo-3586777.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pexels-photo-4738075.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/pisine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/villa2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/img/img-locations/ville.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/details_location.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/details_location.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/modeles-backend/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/details_location.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/navbarpages.php" beforeDir="false" afterPath="$PROJECT_DIR$/modeles-backend/Locations.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +59,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +79,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\locations-de-vacances\vues" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,7 +96,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650359022351</updated>
-      <workItem from="1650359023399" duration="432000" />
+      <workItem from="1650359023399" duration="1034000" />
+      <workItem from="1650437153870" duration="11278000" />
+      <workItem from="1650532667590" duration="689000" />
+      <workItem from="1650609685902" duration="2527000" />
+      <workItem from="1650870245238" duration="5234000" />
+      <workItem from="1650886186537" duration="10564000" />
     </task>
     <servers />
   </component>
@@ -44,9 +109,27 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1650359192789">
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650437194161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1650359192789" />
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1650437194161" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1650614187454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1650614187454" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1650888636427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1650888636427" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vues-frontend/accueil.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
