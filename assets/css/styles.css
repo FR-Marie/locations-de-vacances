@@ -2,8 +2,32 @@ html, body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: dimgrey;
 }
 
+/********************TITRES********************/
+h1{
+
+}
+h2{
+
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 22px;
+    margin-top: 6;
+    color: whitesmoke;
+    text-shadow: 0px 0px 2px black;
+}
+h5{
+    font-size: 16px;
+    color: orangered;
+}
+
+
+/********************NAVBAR********************/
 .navbar{
     background-image: url("../img/technique(structure)/fond-navbar.png");
     background-position: center;
@@ -12,21 +36,100 @@ html, body{
 }
 .navbar a{
     font-size: 25px;
+    color: whitesmoke;
+    text-shadow: 0px 0px 2px black;
 }
 .nav-link{
     margin-left: 50px;
 }
+#btn-connexion{
+    border: 1px solid whitesmoke;
+    font-size: 20px;
+}
+#btn-connexion:hover{
+    color: whitesmoke;
+    background-color: #74a1af;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 10px whitesmoke;
+}
+#btn-inscription{
+    border: 1px solid whitesmoke;
+    font-size: 18px;
+}
+#btn-inscription:hover{
+    color: whitesmoke;
+    background-color: #74a1af;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 10px whitesmoke;
+}
+#btn-deconnexion{
+    border: 1px solid whitesmoke;
+    font-size: 20px;
+}
+#btn-deconnexion:hover{
+    color: whitesmoke;
+    background-color: #74a1af;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 10px whitesmoke;
+}
+#bonjourConnecte{
+    margin-left: 500px;
+}
 
+/********************PAGE DE CONNEXION********************/
+#btn-connexionUtilisateur{
+    font-size: 25px;
+    color: dimgrey;
+}
+#btn-connexionUtilisateur:hover{
+    color: #74a1af;
+}
+#btn-connexionAdministrateur{
+    font-size: 25px;
+    color: dimgrey;
+}
+#btn-connexionAdministrateur:hover{
+    color: #74a1af;
+}
+
+
+#LienPasEncoreInscrit{
+    font-size: 12px;
+    color: green;
+}
+#LienMotDePasseOublie{
+    font-size: 12px;
+}
+
+
+
+/********************CARTES TOUTES LES LOCS********************/
 .card{
     box-shadow: 0px 0px 5px black;
 }
 .card-header{
     height: 75px;
+    background-color: #74a1af;
 }
-h4{
+
+#btn-details-et-reserver{
+    border: 2px solid #74a1af;
+    border-radius: 10px;
+    background-image: url("../img/technique(structure)/fond-navbar.png");
+    background-position: center;
+}
+
+
+
+/*********************************ADMINISTRATION**********************************/
+.administrationrBorder{
+    border-right: 3px solid dimgrey;
+}
+.p-admin{
     font-size: 20px;
 }
-h5{
-    font-size: 16px;
-    color: deeppink;
+.p-admin:hover{
+    color: #74a1af;
+    cursor: pointer;
 }
+

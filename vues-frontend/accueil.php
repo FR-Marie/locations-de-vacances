@@ -7,6 +7,8 @@ $locationsClasse = new Locations();
 $locations = $locationsClasse->getLocations();
 //var_dump($locations);
 
+
+
 ?>
 <div class="row">
     <?php
@@ -29,8 +31,13 @@ $locations = $locationsClasse->getLocations();
 
                     <!-----------tarifs------------>
                     <div class="text-start mt-2">
+                        <p>Capacité maximum: <?= $location["couchages_location_id"] ?> personnes</p>
                         <span class="card-text d-block"><?=$location["prix_we_location"] ."€/week-end"?></span>
                         <span class="card-text"><?=$location["prix_semaine_location"] ."€/semaine"?></span>
+                    </div>
+
+                    <div>
+                        <a href="detailsLocations.php?id_location=<?= $location["id_location"] ?>" id="btn-details-et-reserver" class="btn btn-sm mt-5 px-1 py-2">Voir détails / réserver</a>
                     </div>
 
 
